@@ -52,8 +52,32 @@
 	float: right;
 }
 .image {
-	width: 70%;
+	width: 55%;
 	height: 150px;
 	background-color: antiquewhite;
 	margin-top: 10px;
+}
+#addcomment {
+	display: flex;
+	width: 100%;
+}
+#mycomment {
+	width: 1200px;
+	margin: 0 auto;
+	height: 100px;
+	font-size: 25px;
+	border-radius: 20px;
+	text-indent: 5px;
+	background-color: #d9d9d9;
+	border: none;
+}
+#addbtn {
+	border: none;
+	border-radius: 20px;
+	margin-left: 20px;
+	float: right;
+}
+#addcomment {
+	margin: 0 auto;
+	width: fit-content;
 }
