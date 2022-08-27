@@ -1,0 +1,12 @@
+#map {
+	width: 600px;
+	height: 250px;
+	margin: auto;
+}
+.first {
+	width: 80%;
+	height: 200px;
+	margin: auto;
+	background-color: red;
+	display: flex;
+}
